@@ -28,7 +28,7 @@ const routes:Routes = [
     HomeComponent,
     RegisterComponent,
     LoginComponent,
-    DashboardComponent
+    DashboardComponent,
   ],
   imports: [
     BrowserModule,
